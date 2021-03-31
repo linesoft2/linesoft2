@@ -1,4 +1,4 @@
-目前就读于北京石油化工学院，PanDownload-Android作者，Open2Share作者，在学Web前端。
+
 
 <!--
 **linesoft2/linesoft2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
